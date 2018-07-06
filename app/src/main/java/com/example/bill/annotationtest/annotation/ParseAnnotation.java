@@ -54,7 +54,7 @@ public class ParseAnnotation {
     }
 
     /**
-     * 方法
+     * 属性
      */
     public static void parseFieldAnnotation() {
         Field[] fields = UserAnnotation.class.getDeclaredFields();
@@ -68,7 +68,7 @@ public class ParseAnnotation {
                  * 根据注解类型返回方法的指定类型注解
                  */
                 MethodInfo annotation = field.getAnnotation(MethodInfo.class);
-                PrintUtils.print("method = " + field.getName() + " ; id = "
+                PrintUtils.print("field = " + field.getName() + " ; id = "
                         + annotation.id() + " ; description = "
                         + annotation.name() + "; gid= " + annotation.gid());
             }
