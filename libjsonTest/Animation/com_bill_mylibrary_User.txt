@@ -1,0 +1,9 @@
+{class:"com.bill.mylibrary.User",
+ fields:
+ {
+  name:"java.lang.String",
+  area:"java.lang.String",
+  age:"int",
+  mArticleList:"java.util.List<com.bill.mylibrary.Article>"
+ }
+}

@@ -9,6 +9,8 @@ import java.lang.annotation.Target;
 
 /**
  * Created by Bill on 2018/5/17.
+ *
+ * 元注解
  */
 
 
@@ -17,7 +19,7 @@ import java.lang.annotation.Target;
  */
 
 /**
- * @Target
+ * @Target 不修饰默认全部类型
  * ANONOTATION_TYPE(注解类型声明），
  * PACKAGE（包）
  * TYPE （类，包括enum及接口，注解类型）

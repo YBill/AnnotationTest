@@ -1,0 +1,7 @@
+{class:"com.bill.mylibrary.Article",
+ fields:
+ {
+  title:"java.lang.String",
+  content:"java.lang.String"
+ }
+}
