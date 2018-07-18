@@ -1,1 +1,1 @@
-include ':app', ':jsonlib', ':libjsonTest'
+include ':app', ':jsonlib', ':libjsonTest', ':AnnotationModule', ':CompilerModule'

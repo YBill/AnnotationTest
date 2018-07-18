@@ -1,4 +1,4 @@
-package com.example.bill.annotationtest.annotation;
+package com.example.bill.annotationtest.runtime;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;

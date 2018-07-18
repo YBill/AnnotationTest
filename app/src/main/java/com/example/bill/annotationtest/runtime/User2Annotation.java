@@ -1,4 +1,4 @@
-package com.example.bill.annotationtest.annotation;
+package com.example.bill.annotationtest.runtime;
 
 /**
  * Created by Bill on 2018/5/17.

@@ -1,4 +1,4 @@
-package com.example.bill.annotationtest.annotation;
+package com.example.bill.annotationtest.runtime;
 
 import java.util.ArrayList;
 import java.util.HashMap;

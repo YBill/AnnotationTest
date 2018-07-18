@@ -12,9 +12,10 @@
         <activity android:name=".MainActivity">
         </activity>
         <activity android:name=".reflect.ReflectTestActivity">
-
         </activity>
-        <activity android:name=".annotation.RunTimeAnnotationActivity">
+        <activity android:name=".runtime.RunTimeAnnotationActivity">
+        </activity>
+        <activity android:name=".annotation.AnnotationActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 

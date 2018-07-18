@@ -1,4 +1,4 @@
-package com.example.bill.annotationtest.annotation;
+package com.example.bill.annotationtest.runtime;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

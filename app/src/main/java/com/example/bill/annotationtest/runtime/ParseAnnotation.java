@@ -1,4 +1,4 @@
-package com.example.bill.annotationtest.annotation;
+package com.example.bill.annotationtest.runtime;
 
 import com.example.bill.annotationtest.PrintUtils;
 
@@ -13,7 +13,7 @@ import java.lang.reflect.Method;
 
 public class ParseAnnotation {
 
-    private static String className = "com.example.bill.annotationtest.annotation.UserAnnotation";
+    private static String className = "com.example.bill.annotationtest.runtime.UserAnnotation";
 
     /**
      * 类

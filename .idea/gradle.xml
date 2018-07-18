@@ -8,6 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AnnotationModule" />
+            <option value="$PROJECT_DIR$/CompilerModule" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/jsonlib" />
             <option value="$PROJECT_DIR$/libjsonTest" />
