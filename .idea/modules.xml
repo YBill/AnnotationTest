@@ -3,10 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AnnotationModule/AnnotationModule.iml" filepath="$PROJECT_DIR$/AnnotationModule/AnnotationModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnnotationModule/AnnotationModule.iml" filepath="$PROJECT_DIR$/AnnotationModule/AnnotationModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnnotationTest.iml" filepath="$PROJECT_DIR$/AnnotationTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/AnnotationTest.iml" filepath="$PROJECT_DIR$/AnnotationTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/CompilerModule/CompilerModule.iml" filepath="$PROJECT_DIR$/CompilerModule/CompilerModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompilerModule/CompilerModule.iml" filepath="$PROJECT_DIR$/CompilerModule/CompilerModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/jsonlib/jsonlib.iml" filepath="$PROJECT_DIR$/jsonlib/jsonlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsonlib/jsonlib.iml" filepath="$PROJECT_DIR$/jsonlib/jsonlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libjsonTest/libjsonTest.iml" filepath="$PROJECT_DIR$/libjsonTest/libjsonTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/libjsonTest/libjsonTest.iml" filepath="$PROJECT_DIR$/libjsonTest/libjsonTest.iml" />
       <module fileurl="file://D:\workspace\AnnotationTest\libjsonTest\mylibrary.iml" filepath="D:\workspace\AnnotationTest\libjsonTest\mylibrary.iml" />
     </modules>
