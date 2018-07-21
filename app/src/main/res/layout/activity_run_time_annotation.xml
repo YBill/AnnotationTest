@@ -8,6 +8,11 @@
     android:orientation="vertical"
     tools:context="com.example.bill.annotationtest.runtime.RunTimeAnnotationActivity">
 
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
     <Button
         android:id="@+id/btn_1"
         android:layout_width="wrap_content"
