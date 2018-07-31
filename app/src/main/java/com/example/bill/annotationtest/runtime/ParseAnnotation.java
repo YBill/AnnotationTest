@@ -35,7 +35,7 @@ public class ParseAnnotation {
      * 构造方法
      */
     public static void parseConstructAnnotation() {
-        Constructor[] constructors = UserAnnotation.class.getConstructors();
+        Constructor[] constructors = UserAnnotation.class.getDeclaredConstructors();
         for (Constructor constructor : constructors) {
             /*
              * 判断构造方法中是否有指定注解类型的注解

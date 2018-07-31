@@ -28,6 +28,11 @@ public class UserAnnotation {
 
     }
 
+    @MethodInfo(name = "construct hava id", id = 3, gid = UserAnnotation.class)//构造方法注解
+    private UserAnnotation(int id) {
+
+    }
+
     @MethodInfo(name = "public method", id = 3, gid = Map.class) //类方法注解
     public void a() {
         Map<String, String> m = new HashMap<String, String>(0);
